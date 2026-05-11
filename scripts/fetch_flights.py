@@ -98,7 +98,6 @@ def parse_siros_dt(dt_str: str) -> str:
     except Exception:
         return dt_str
 
-
 def fmt_hora(dt_str: str) -> str:
     """Extrai apenas HH:MM de uma string ISO com timezone."""
     if not dt_str:
