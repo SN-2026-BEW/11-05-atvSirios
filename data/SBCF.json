@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-19T17:20:23.080598+00:00",
+  "updated_at": "2026-06-19T22:04:55.873136+00:00",
   "data_referencia": "2026-06-19",
   "airport_icao": "SBCF",
   "airport_name": "Belo Horizonte / Confins",
   "airport_info": {
-    "sg_aerodromo_icao": "SBCF",
-    "sg_aerodromo_iata": "CNF",
-    "descricao": "TANCREDO NEVES - CONFINS - MG - BRASIL"
+    "sg_aerodromo_icao": "SBCG",
+    "sg_aerodromo_iata": "CGR",
+    "descricao": "CAMPO GRANDE - CAMPO GRANDE - MS - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
