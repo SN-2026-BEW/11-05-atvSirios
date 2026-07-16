@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-16T11:01:55.894739+00:00",
+  "updated_at": "2026-07-16T13:53:41.234477+00:00",
   "data_referencia": "2026-07-16",
   "airport_icao": "SBMO",
   "airport_name": "Maceio",
   "airport_info": {
-    "sg_aerodromo_icao": "SBLE",
-    "sg_aerodromo_iata": "LEC",
-    "descricao": "HORÁCIO DE MATTOS - LENÇÓIS - BA - BRASIL"
+    "sg_aerodromo_icao": "SBMO",
+    "sg_aerodromo_iata": "MCZ",
+    "descricao": "ZUMBI DOS PALMARES - MACEIÓ - AL - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
