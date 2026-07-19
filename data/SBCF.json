@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-19T15:58:56.965339+00:00",
+  "updated_at": "2026-07-19T21:54:09.646887+00:00",
   "data_referencia": "2026-07-19",
   "airport_icao": "SBCF",
   "airport_name": "Belo Horizonte / Confins",
   "airport_info": {
-    "sg_aerodromo_icao": "SBSL",
-    "sg_aerodromo_iata": "SLZ",
-    "descricao": "MARECHAL CUNHA MACHADO - SÃO LUÍS - MA - BRASIL"
+    "sg_aerodromo_icao": "SBCF",
+    "sg_aerodromo_iata": "CNF",
+    "descricao": "TANCREDO NEVES - CONFINS - MG - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
